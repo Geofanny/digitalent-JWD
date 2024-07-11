@@ -71,3 +71,9 @@
 .navbar-toggler {
     background-color: white !important;
 }
+
+@media (max-width: 1199px) {
+    #navbar-com, #gal-com {
+        display: none;
+    }
+}
